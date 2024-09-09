@@ -1,5 +1,5 @@
 # Example of a Next.js + Shadcn UI app set up with Page UI
-See more on [Page UI](https://page-ui.dev/)
+See more on [Page UI](https://pageui.dev/)
 
 ---------
 
